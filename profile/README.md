@@ -3,7 +3,9 @@ A side project started by [@MaxineToTheStars][1]. Enables the use of Linux on AA
 
 ## Overview
 > [LinuxOnARM/linux][overview-1] - A fork of the Torvalds Kernel with included patches for AArch64 systems.
+
 > [LinuxOnARM/archiso-aarch64][overview-2] - A fork of the Arch Linux [archiso][overview-2-1] repository made for AArch64 systems.
+
 > [LinuxOnARM/alarm-pkgbuilds][overview-3] - A custom automated building and packaging system for Arch Linux AArch64 devices. The GitHub repository also acts as a package repository.
 
 ## Why?
